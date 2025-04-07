@@ -1,0 +1,5 @@
+192.168.65.1 - - [06/Apr/2025:17:36:57 +0000] "GET / HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" "-"
+192.168.65.1 - - [06/Apr/2025:17:51:33 +0000] "GET /patient/search/1234567890123 HTTP/1.1" 301 169 "-" "PostmanRuntime/7.43.3" "-"
+192.168.65.1 - - [06/Apr/2025:17:52:38 +0000] "GET /patient/search/1234567890123 HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" "-"
+192.168.65.1 - - [07/Apr/2025:12:46:31 +0000] "GET /patient/search/1234567890123 HTTP/1.1" 301 169 "-" "PostmanRuntime/7.43.3" "-"
+192.168.65.1 - - [07/Apr/2025:15:25:10 +0000] "GET /patient/search/1234567890123 HTTP/1.1" 301 169 "-" "PostmanRuntime/7.43.3" "-"
